@@ -4,11 +4,11 @@ import java.util.List;
 public class labclass {
 
     public static void main(String[] args) {
-        testQueue();
-//        testStack();
+//        testQueue();
+        testStack();
     }
 
-    
+
 
     static void testQueue(){
         LinkedList<String> queue = new LinkedList<>();
